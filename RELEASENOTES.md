@@ -20,7 +20,7 @@
 -->
 # Release Notes
 
-### Unreleased
+### 2.1.0-OS2 (Nov 16, 2021)
 * Updates dependency for cordova-file-plugin so that version 6.0.2-OS4 is used.
                                               
 ### 1.7.1 (Jan 24, 2018)
