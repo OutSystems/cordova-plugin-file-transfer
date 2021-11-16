@@ -19,6 +19,9 @@
 #
 -->
 # Release Notes
+
+### Unreleased
+* Updates dependency for cordova-file-plugin so that version 6.0.2-OS4 is used.
                                               
 ### 1.7.1 (Jan 24, 2018)
 * [CB-13749](https://issues.apache.org/jira/browse/CB-13749) Add build-tools-26.0.2 to travis
